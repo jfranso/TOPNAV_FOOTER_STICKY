@@ -1,0 +1,34 @@
+.carousel-inner img{
+    height: 80vh;
+    width: 100%;
+
+}
+.x {
+    height: 20vh;
+    background-color: #ffd533;
+}
+.y{
+    height: 20vh;
+    background-color: #faf9f8;
+}
+.a{
+    height: 30vh;
+    background-color: #ffc6f1;
+}
+.b{
+    height: 30vh;
+    background-color: #c9ff6c;
+}
+.c{
+    height: 30vh;
+    background-color: #c35b67;
+}
+.im1{
+    height: 30vh;
+    width: 100%;
+    padding-left: 0px;
+}
+.p{
+    background-color: #4a5c60;
+    height: 5vh;
+}
